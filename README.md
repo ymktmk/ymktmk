@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymktmk)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ymktmk)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ymktmk)(https://github.com/ryo-ma/github-profile-trophy)
