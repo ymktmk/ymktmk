@@ -3,6 +3,8 @@
 I'm Tomoki
 Japanese University student !!!
 
+I'm interested in AWS Cloud & Network
+
 <!--
 **ymktmk/ymktmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
