@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Tomoki
-Japanese University student !!!
+Japanese University student
 
 I'm interested in AWS Cloud & Network
 
