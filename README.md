@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tomoki
+I'm Tomoki Yamaoka
 Japanese University student
 
 I'm interested in AWS Cloud & Network
