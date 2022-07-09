@@ -6,7 +6,12 @@ Japanese University student
 I'm interested in AWS Cloud & Network
 
 
-![gh_profile](https://github-readme-stats.vercel.app/api?username=ymktmk&&show_icons=true&theme=tokyonight&text_color=41B883&title_color=57B6F3&count_private=true)
+<table>
+  <tr>
+    <td>Total visitors</td>
+    <td><img src="https://profile-counter.glitch.me/ymktmk/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 <!--
 **ymktmk/ymktmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
