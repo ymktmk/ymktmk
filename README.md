@@ -3,7 +3,7 @@
 I'm Tomoki Yamaoka
 Japanese University student
 
-I'm interested in AWS Cloud & Network
+I'm interested in Linux Container, Network, Cloud
 
 <!--
 **ymktmk/ymktmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
