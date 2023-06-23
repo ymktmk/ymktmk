@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Tomoki Yamaoka
-Japanese University student
+I'm Tomoki Yamaoka ! working for a Fashion Tech Company !!
 
 I'm interested in Linux Container, Network, Cloud
 
